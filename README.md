@@ -1,4 +1,5 @@
-# privy-website
+# privy-website old website 
+# We are now using PRIVYBB. Our forum beta https://digitalcrook.com 
 # Privy Initiatives website / Home Page 
  The goal of the homepage is to setup a website that mostly load from a solution similar to ipfs called gaia
  Gaia is a Blockstack project that will allow us to save resources and enchances security of our website
